@@ -1,0 +1,5 @@
+ 2458  ssh -T git@github.com
+ 2459  git remote set-url origin git@github.com:ashishmagar600/rpi_tarball.git
+ 2460  git add -A
+ 2461  git push
+
